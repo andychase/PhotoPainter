@@ -17,7 +17,7 @@ waveshare electronics</br>
 一、使用 Photoshop 制作散点图，然后导入到 SD 卡。参考教程：  
 [E-Paper-Floyd-Steinberg - Waveshare Wiki](https://www.waveshare.net/wiki/E-Paper-Floyd-Steinberg)  
 
-二、使用 Dr. Fedor G. Sarafanov 提供的网站：  
+二、使用 图片制作工具-由Dr. Fedor G. Sarafanov 分享提供：  
 [Image Tool by Dr. Fedor G. Sarafanov](http://fedorsarafanov.github.io/imagetool/) 
 
 三、使用我们提供的七色抖动图片转换工具。下载链接：  
@@ -69,7 +69,7 @@ Related documentation can be found at:
 1.Using Photoshop to create a dithered image and then importing it to an SD card. For a tutorial, please refer to:  
 [E-Paper-Floyd-Steinberg - Waveshare Wiki](https://www.waveshare.com/wiki/E-Paper_Floyd-Steinberg)  
 
-2.Using the image tool provided by Dr. Fedor G. Sarafanov:  
+2.Use the image-making tool - courtesy of Dr. Fedor G. Sarafanov:  
 [Image Tool by Dr. Fedor G. Sarafanov](http://fedorsarafanov.github.io/imagetool/) 
 
 3.Using our provided 7-color dithering image conversion tool. Download link:  
