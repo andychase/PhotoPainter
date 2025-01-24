@@ -1,8 +1,8 @@
 # PhotoPainter
 
 ## Waveshare Electronics
-
-
+waveshare electronics</br>
+![waveshare_logo.png](waveshare_logo.png)
 
 ---
 
