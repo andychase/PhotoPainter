@@ -2,7 +2,7 @@
 
 ## Waveshare Electronics
 
-![waveshare_logo.png](waveshare_logo.png)
+
 
 ---
 
