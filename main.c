@@ -26,7 +26,7 @@ float measureVBAT(void)
     const float conversion_factor = 3.3f / (1 << 12);
     uint16_t result = adc_read();
     Voltage = result * conversion_factor * 3;
-    printf("Raw value: 0x%03x, voltage: %f V\n", result, Voltage);
+    //printf("Raw value: 0x%03x, voltage: %f V\n", result, Voltage);
     return Voltage;
 }
 
@@ -126,7 +126,7 @@ int main(void)
             }
             #endif
 
-            if(!DEV_Digital_Read(BAT_STATE)) {  // KEY pressed
+            if(!DEV_Digital_Read(BAT_STATE) || getchar_timeout_us(1000) != PICO_ERROR_TIMEOUT) {  // KEY pressed
                 printf("key interrupt\r\n");
                 run_display(Time, alarmTime, isCard);
             }
